@@ -1,0 +1,11 @@
+{
+  "code": 200,
+  "message": "执行成功",
+  "success": true,
+  "data": {
+    "entityId": 1,
+    "templateId": 23,
+    "templateName": "企业模板2",
+    "propertyDataList": []
+  }
+}
